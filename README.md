@@ -1,2 +1,2 @@
 # featus-Heartbeat-extraction
-extraction of featus heartbeat from the mixed heartbeat signal(ecg)
+extraction of featus heartbeat from the mixed mother heartbeat signal(ecg)
